@@ -8,7 +8,6 @@ try:
 #Procura os comandos digitados e adiciona a lista
     comandos = []
 
-
     for argumentos in argv:
         comandos.append(argumentos)
 
@@ -45,4 +44,3 @@ exemplo: calcular 2 + 2''')
 
 #foi mal aí véi
 #sorry about that
-
