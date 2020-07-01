@@ -42,5 +42,5 @@ exemplo: calcular 2 + 2''')
     elif len(comandos) < 4:
         print('falta de argumentos: verifique a opção help com "calcular -h"')
 
-#foi mal aí véi
+#foi mal aê véi
 #sorry about that
