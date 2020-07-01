@@ -1,2 +1,2 @@
 # Calcular
- calculadora simples em python para o termnial linux
+ calculadora simples em python para o terminal linux
