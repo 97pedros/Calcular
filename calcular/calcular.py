@@ -8,6 +8,7 @@ try:
 #Procura os comandos digitados e adiciona a lista
     comandos = []
 
+
     for argumentos in argv:
         comandos.append(argumentos)
 
@@ -31,6 +32,7 @@ try:
         contar1 = int(comandos[1])
         contar2 = int(comandos[3])
         print(contar1/contar2)
+    
 except:
 #comandos adicionais
     if comandos[1] == '-h':
