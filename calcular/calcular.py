@@ -3,6 +3,9 @@
 #Pedro.dos.santos1997@gmail.com                         #
 #São paulo, SP, 29 de junho de 2020                     #
 #########################################################
+
+#Acabei de descobrir que não tem Switch/case no python ;-;
+
 from sys import argv
 try:
 #Procura os comandos digitados e adiciona a lista
